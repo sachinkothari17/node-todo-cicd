@@ -1,4 +1,4 @@
-#define test 10
+#define test 11
  
 int foo(){
     return test;
